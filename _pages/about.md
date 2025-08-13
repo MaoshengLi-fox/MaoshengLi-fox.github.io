@@ -2,9 +2,9 @@
 #permalink: /
 #title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 #author_profile: true
-#redirect_from: 
-#  - /about/
-#  - /about.html
+redirect_from: 
+  - /about/
+  - /about.html
 #---
 
 Hi, my name is Maosheng Li (Chinese: 李茂盛), a Master’s student (2025.08–2027.06) in the Computer Vision program at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). I received my Bachelor’s degree in Software Engineering (Embedded Systems) from the University of Electronic Science and Technology of China (UESTC). My research interests lie in artificial intelligence and its applications in computer vision and healthcare. I am advised by [Your Advisor’s Name].!
