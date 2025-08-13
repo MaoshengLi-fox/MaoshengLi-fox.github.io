@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Maosheng Li"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,9 +25,9 @@ author:
   avatar           : "my_photo.png"
   name             : "Maosheng Li"
   pronouns         : # example: "she/her"  
-  bio              : "M.S. Candidate (Computer Vision, 2025.08–2027.06)"
+  bio              : "M.S. Candidate (2025.08–2027.06)"
   location         : "Chengdu Sichuan China"
-  employer         : "Mohamed bin Zayed Univ. of Artificial Intelligence"
+  employer         : "Mohamed bin Zayed Univ. of Arti Intelli"
   uri              : # URL
   email            : "Maosheng.Li@mbzuai.ac.ae" 
 
